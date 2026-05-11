@@ -25,25 +25,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 
-### Currently Learning
 
-- 🌱 Deepening my **JavaScript** fundamentals
-- ⚛️ Exploring **React.js** for frontend development
-- 💻 Picking up **C++** basics
 
 ---
 
-### GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kurtpablo&show_icons=true&theme=default&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kurtpablo&hide_border=true" height="160" />
-</p>
-
----
 
 ### Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/krt.pbl)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurtpablo/)
+
